@@ -899,7 +899,7 @@ ul.circle {
       color: #0c1f38; }
 
 .bgsection {
-  background: url(../images/1920x1300.jpg) bottom center no-repeat;
+  background: url(../images/banner-back-1920x1300.png) bottom center no-repeat;
   background-attachment: fixed;
   background-size: cover; }
   .bgsection:before {
@@ -1860,7 +1860,7 @@ Back To Top Section
     bottom: 0;
     background: rgba(34, 34, 34, 0.8);
     padding: 20px;
-    height: 60%;
+    height: 80%;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
     -ms-transition: all 0.3s ease;
