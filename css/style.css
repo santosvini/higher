@@ -1950,7 +1950,7 @@ Back To Top Section
     max-width: 255px;
     display: block;
     position: relative;
-    background-color: #DB0000; }
+    background-color: #FFFFFF; }
     .testimonial-1 .media img {
       -webkit-transform: scale(1, 1);
       -ms-transform: scale(1, 1);
@@ -3048,7 +3048,7 @@ Back To Top Section
  */
 .banner-page {
   padding: 100px 0;
-  background: url("../images/Higher-aplica.png") bottom center no-repeat;
+  background: url("../images/banner-cases.png") bottom center no-repeat;
   background-attachment: fixed;
   background-size: cover; }
 
