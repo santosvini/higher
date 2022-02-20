@@ -2,9 +2,9 @@
 
 <h2> UPDATE 4 - add as imagens nos produtos</h2>
 <ul>
-  <li>Página de Pordutos - Resistências Flexíveis</li>
-  <li>Página de Pordutos - Resistências</li>
-  <li>Página de Pordutos - Mangueiras</li>
+  <li>Página de Produtos - Resistências Flexíveis</li>
+  <li>Página de Produtos - Resistências</li>
+  <li>Página de Produtos - Mangueiras</li>
   <li>Ajustar o botão READE MORE ou o tamanho das fotos</li>
 </ul>
   
