@@ -1544,7 +1544,7 @@ Back To Top Section
   -webkit-flex-flow: row wrap;
   flex-flow: row wrap;
   min-height: 200px;
-  padding: 30px; }
+  padding: 10px; }
   .box-icon-6 .icon {
     font-size: 35px;
     min-height: 65px;
