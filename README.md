@@ -1,10 +1,14 @@
 <h1>Reestruturação do site da Higher - Sistema de Aquecimento Industrial</h1>
 
-<h2> UPDATE 3</h2>
+<h2> UPDATE 4 - add as imagens nos produtos</h2>
 <ul>
-  <li>Página de Biblioteca - Icones</li>
-  <li>Popup com formulário ao clicar em dowloads</li>
-  <li>Icones na pagina istitucional</li>
-  <li>Imagem capa para as paginas</li>
-  </ul>
+  <li>Página de Pordutos - Resistências Flexíveis</li>
+  <li>Página de Pordutos - Resistências</li>
+  <li>Página de Pordutos - Mangueiras</li>
+  <li>Ajustar o botão READE MORE ou o tamanho das fotos</li>
+</ul>
   
+<p>Eu vi que esta usando o style.min, usei o inspecionar para diminuir as fontes na apresentação dos produtos
+mas nao conseguir mexer no SASS e CSS, Marcão</p>
+
+<p>Quando eu chegar a noite continuo mexendo nessas pages</p>
