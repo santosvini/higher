@@ -2,9 +2,17 @@
 
 <h2> UPDATE 5 - add as imagens nos produtos</h2>
 <ul>
-  <li>Novas artes na Pagina Aplicações</li>
+  <li>Página Home - Gif Carrossel ADD</li> 
+  <li>Página Home - Counter number ADD </li> 
+  <li>Página Home - Gif Carrossel ADD</li> 
   <li>Página Institucional - imagens no Carrossel</li>
   <li>Página Institucional - icones no box Visão, Missão Valores</li>
+  <li>Página Institucional - Box de comentários incluido</li>
+  <li>Pagina Produto - Filtros (codigo interno) Renomeado</li>
+  <li>Pagina Produto - Grid patronizado</li>
+  <li>Pagina Produto Detalhe - Link Pág. Orçamento</li>
+  <li>Novas artes na Pagina Aplicações</li>
+  <li>Fomrulários Diferentes para Contato e Orçamento</li>
 </ul>
   
 <h2> UPDATE 4 - add as imagens nos produtos</h2>
