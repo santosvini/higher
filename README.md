@@ -13,6 +13,8 @@
   <li>Pagina Produto Detalhe - Link Pág. Orçamento</li>
   <li>Novas artes na Pagina Aplicações</li>
   <li>Fomrulários Diferentes para Contato e Orçamento</li>
+  <li>Botão Whatsapp ADD em todas as Páginas</li>
+  <li> Página 404 ERROR definida</li>
 </ul>
   
 <h2> UPDATE 4 - add as imagens nos produtos</h2>
