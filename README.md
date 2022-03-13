@@ -1,5 +1,13 @@
 <h1>Reestruturação do site da Higher - Sistema de Aquecimento Industrial</h1>
 
+<h2>UPDATE 7 - Pages Produtos e Aplicações - Continua<h2>
+<ul>
+  <li>Página de Produtos - Imagens de Resistências Flexíveis</li>
+  <li>Página de Produtos - Imagens de Resistências </li>
+  <li>Página de Produtos - Imagens de Lançamentos</li>
+  <li>Página de Aplicações - Add Imagem em tratamento de água</li>
+</ul>
+
 <h2> UPDATE 6 - Refinamento</h2>
 <ul>
   <li>Página Home - Logos do Cabeçalho redimencionadas </li> 
