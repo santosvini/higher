@@ -5,7 +5,9 @@
   <li>Página de Produtos - Imagens de Resistências Flexíveis</li>
   <li>Página de Produtos - Imagens de Resistências </li>
   <li>Página de Produtos - Imagens de Lançamentos</li>
-  <li>Página de Aplicações - Add Imagem em tratamento de água</li>
+  <li>Página de Produtos - Produto Manta de Silicone p/ Prensa Térmica</li>
+  <li>Página de Produtor - Produto Manta Térmica de Silicone</li>
+  <li>Página de Produtor - Aquecedor de tambor cinta</li>
 </ul>
 
 <h2> UPDATE 6 - Refinamento</h2>
