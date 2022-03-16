@@ -1,5 +1,12 @@
 <h1>Reestruturação do site da Higher - Sistema de Aquecimento Industrial</h1>
 
+<h2>UPDATE 8 - Pages Produtos<h2>
+<ul>
+  <li>Página de Produtos - Produto Mangueira Térmica</li>
+  <li>Página de Produtor - Produto Manta Aquecedora Container IBC</li>
+  <li>Página de Produtor - Produto Imersão Flange Rosca, ainda ajustar produtos relacionados</li>
+</ul>
+
 <h2>UPDATE 7 - Pages Produtos e Aplicações - Continua<h2>
 <ul>
   <li>Página de Produtos - Imagens de Resistências Flexíveis</li>
