@@ -1,5 +1,20 @@
 <h1>Reestruturação do site da Higher - Sistema de Aquecimento Industrial</h1>
 
+<h2>UPDATE 10 - Pages Produtos<h2>
+<ul>
+  <li>Página de Produtos - Produto Projeto Básico do Forno Acheson</li>
+  <li>Página de Produtos - Produto Skid de Sanitização</li>
+  <li>Página de Produtos - Produto Aquecimento da Catapulta de Lançamento do Porta-Aviões</li>
+  <li>Página de Produtos - Produto Resistências para Fornos e Estufas</li>
+  <li>Página de Produtos - Produto Aquecedor Elétrico de Ambiente</li>
+  <li>Página de Produtos - Produto Forno Elétrico para Linha Industrial</li>
+  <li>Página de Produtos - Produto Estufa Industrial de Secagem e Esterilização</li>
+  <li>Página de Produtos - Produto Projeto Básico do Forno Acheson</li>
+  <li>Página de Produtos - Produto Projeto do Aquecimento da Catapulta de Lançamento do Porta-Aviões</li>
+  <li>Página de Produtos - Produto Projeto do Aquecimento da Catapulta de Lançamento do Porta-Aviões</li>
+  
+</ul>
+
 <h2>UPDATE 9 - Pages Produtos<h2>
 <ul>
   <li>Atualização da pagina de Produtos</li>
