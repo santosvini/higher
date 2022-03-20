@@ -1,10 +1,28 @@
 <h1>Reestruturação do site da Higher - Sistema de Aquecimento Industrial</h1>
 
+<h2>UPDATE 9 - Pages Produtos<h2>
+<ul>
+  <li>Atualização da pagina de Produtos</li>
+  <li>Página de Produtos - Produto Aquecedor Carter Compressor</li>
+  <li>Página de Produtos - Produto Aquecedor de Passagem de Ar</li>
+  <li>Página de Produtos - Produto Aquecedor de Passagem</li>
+  <li>Atualização da Página de Produtos - Produto Tambor Jaqueta</li>
+  <li>Página de Produtos - Produto Estufa de Tambor</li>
+  <li>Página de Produtos - Produto Fita Aquecimento Traço Elétrico</li>
+  <li>Atualização da Página de Produtos - Produto Imersão Flange Rosca</li>
+  <li>Atualização da Página de Produtos - Produto Manta Aquecedora Container IBC</li>
+  <li>Página de Produtos - Produto Resistência Aletada</li>
+  <li>Página de Produtos - Produto Resistência Elétrica Degelo</li>
+  <li>Página de Produtos - Produto Resistência Tubular Borda</li>
+  <li>Página de Produtos - Produto Resistência Tubular Flange Asa</li>
+  <li>Página de Produtos - Produto Resistência Tubular</li>
+</ul>
+
 <h2>UPDATE 8 - Pages Produtos<h2>
 <ul>
   <li>Página de Produtos - Produto Mangueira Térmica</li>
-  <li>Página de Produtor - Produto Manta Aquecedora Container IBC</li>
-  <li>Página de Produtor - Produto Imersão Flange Rosca, ainda ajustar produtos relacionados</li>
+  <li>Página de Produtos - Produto Manta Aquecedora Container IBC</li>
+  <li>Página de Produtos - Produto Imersão Flange Rosca, ainda ajustar produtos relacionados</li>
 </ul>
 
 <h2>UPDATE 7 - Pages Produtos e Aplicações - Continua<h2>
@@ -13,8 +31,8 @@
   <li>Página de Produtos - Imagens de Resistências </li>
   <li>Página de Produtos - Imagens de Lançamentos</li>
   <li>Página de Produtos - Produto Manta de Silicone p/ Prensa Térmica</li>
-  <li>Página de Produtor - Produto Manta Térmica de Silicone</li>
-  <li>Página de Produtor - Aquecedor de tambor cinta</li>
+  <li>Página de Produtos - Produto Manta Térmica de Silicone</li>
+  <li>Página de Produtos - Aquecedor de tambor cinta</li>
 </ul>
 
 <h2> UPDATE 6 - Refinamento</h2>
