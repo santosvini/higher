@@ -1,5 +1,20 @@
 <h1>Reestruturação do site da Higher - Sistema de Aquecimento Industrial</h1>
 
+<h2>UPDATE 11 - Pages Aplicações<h2>
+<ul>
+  <li>Página de Aplicações - </li>
+  <li>Página de Aplicações - Página Ind. Aeronáutica</li>
+  <li>Página de Aplicações - Página Alimentação</li>
+  <li>Página de Aplicações - Página Ind. Química</li>
+  <li>Página de Aplicações - Página Ind. Automobilística</li>
+  <li>Página de Aplicações - Página Ind. Petroquímica</li>
+  <li>Página de Aplicações - Página Sist. Refrigeração</li>
+  <li>Página de Aplicações - Página Tratamento de Água</li>
+  <li>Página de Aplicações - Página Ind. Vidro</li>
+  <li>Página de Aplicações - Página Energia Solar</li>
+  <li> Algumas correções de acentuação e linkagem de outras páginas associadas nas páginas de produtos e aplicações que estavam faltando</li>
+</ul>
+
 <h2>UPDATE 10 - Pages Produtos<h2>
 <ul>
   <li>Página de Produtos - Produto Projeto Básico do Forno Acheson</li>
@@ -12,7 +27,6 @@
   <li>Página de Produtos - Produto Projeto Básico do Forno Acheson</li>
   <li>Página de Produtos - Produto Projeto do Aquecimento da Catapulta de Lançamento do Porta-Aviões</li>
   <li>Página de Produtos - Produto Projeto do Aquecimento da Catapulta de Lançamento do Porta-Aviões</li>
-  
 </ul>
 
 <h2>UPDATE 9 - Pages Produtos<h2>
