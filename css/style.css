@@ -3903,15 +3903,25 @@ dl.hiw {
 }
 
  #video-box{
-    height: auto;
-    width: 100%;
-	opacity: 0.70;
+   	opacity: 0.70;
     z-index: -10;
     position: absolute;
-    top: 0;
-    left: 0;
-    object-fit: cover;   
+    left:0;
+	top:0;
   }
+@media (min-aspect-ratio: 16/9) {
+    #video-box {
+        width:100%;
+        height: auto;
+    }
+}
+@media (max-aspect-ratio: 16/9) {
+    #video-box { 
+        width:auto;
+        height: 100%;
+    }
+}
+
 .hero-content {
   width: auto;
   height: auto;
@@ -4361,6 +4371,9 @@ dl.hiw {
   50%  { opacity: .5; }
   100% { opacity: 1; }
 }
-
+.logo-stiky {
+  width: 100%;
+	height: auto;
+}
 
 /*# sourceMappingURL=style.css.map */
