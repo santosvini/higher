@@ -1,5 +1,11 @@
 <h1>Reestruturação do site da Higher - Sistema de Aquecimento Industrial</h1>
 
+<h2>UPDATE 12 - RESPONSIVO<h2>
+<ul>
+  <li>Ajustes no Responsivo </li>
+  
+</ul>
+
 <h2>UPDATE 11 - Pages Aplicações<h2>
 <ul>
   <li>Página de Aplicações - </li>
