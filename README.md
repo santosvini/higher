@@ -1,9 +1,14 @@
 <h1>Reestruturação do site da Higher - Sistema de Aquecimento Industrial</h1>
 
+<h2>UPDATE 13 - ORTOGRAFIA E POSIÇÃO<h2>
+<ul>
+  <li>Ajustes na posição do titulo DEPOIMENTOS</li>
+  <li>CORREÇÃO DO BOTÃO SAIBA MAIS - HOME</li>
+</ul>
+
 <h2>UPDATE 12 - RESPONSIVO<h2>
 <ul>
   <li>Ajustes no Responsivo </li>
-  
 </ul>
 
 <h2>UPDATE 11 - Pages Aplicações<h2>
