@@ -902,7 +902,7 @@ ul.circle {
       color: #060f1c; }
 
 .bgsection {
-  background: url(../images/banner-back-1920x1300.png) bottom center no-repeat;
+  background: url(../images/2.png) bottom center no-repeat;
   background-attachment: fixed;
   background-size: cover; }
   .bgsection:before {
@@ -1124,7 +1124,8 @@ Back To Top Section
   overflow: hidden;
   position: relative;
   display: inline-block;
-  margin: 0 -1.5px; }
+  margin: 0 -1.5px; 
+  border-radius: 20px;}
   .hover-img img {
     width: 100%;
     -webkit-object-fit: cover;
@@ -1488,11 +1489,11 @@ Back To Top Section
     -o-transition: all .3s ease;
     transition: all .3s ease; }
   .box-icon-4 .body-content {
-    color: #222222;
+    color: #FFFFFF;
     position: relative;
     z-index: 1; }
     .box-icon-4 .body-content .heading {
-      color: #060f1c;
+      color: #FFFFFF;
       font-size: 18px;
       margin-bottom: 15px;
       text-transform: uppercase;
@@ -3070,6 +3071,43 @@ Back To Top Section
   background-attachment: fixed;
   background-size: cover; }
 
+.banner-page.aero {
+  background: url("../images/avi.png") bottom center no-repeat;
+  background-attachment: fixed;
+  background-size: cover; }
+.banner-page.alimento {
+  background: url("../images/alimento.png") bottom center no-repeat;
+  background-attachment: fixed;
+  background-size: cover; }
+.banner-page.auto {
+  background: url("../images/auto.png") bottom center no-repeat;
+  background-attachment: fixed;
+  background-size: cover; }
+.banner-page.solar {
+  background: url("../images/sol.png") bottom center no-repeat;
+  background-attachment: fixed;
+  background-size: cover; }
+.banner-page.petro {
+  background: url("../images/petro.png") bottom center no-repeat;
+  background-attachment: fixed;
+  background-size: cover; }
+.banner-page.quimica {
+  background: url("../images/quimi.png") bottom center no-repeat;
+  background-attachment: fixed;
+  background-size: cover; }
+.banner-page.refri {
+  background: url("../images/refri.png") bottom center no-repeat;
+  background-attachment: fixed;
+  background-size: cover; }
+.banner-page.agua {
+  background: url("../images/aqua.png") bottom center no-repeat;
+  background-attachment: fixed;
+  background-size: cover; }
+.banner-page.vidro {
+  background: url("../images/glass.png") bottom center no-repeat;
+  background-attachment: fixed;
+  background-size: cover; }
+
 .director-image {
   position: relative;
   margin-bottom: 60px; }
@@ -3170,10 +3208,10 @@ dl.hiw {
 
 /* 6.2 - Services */
 .banner-page.project {
-  background: url("../images/1920x1300.jpg") bottom center no-repeat; }
+  background: url("../images/3.png") bottom center no-repeat; }
 
 /*.section.project{
-	background: url('../images/FACHADA.png') bottom center no-repeat;
+	background: url('../images/4.png') bottom center no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
 }
@@ -3188,7 +3226,7 @@ dl.hiw {
 	opacity: .9;
 }*/
 .bg-dark {
-  background: url("../images/FACHADA.png") bottom center no-repeat;
+  background: url("../images/4.png") bottom center no-repeat;
   background-attachment: fixed;
   background-size: cover; }
 
@@ -3229,11 +3267,11 @@ dl.hiw {
 
 /* 6.3 - Pages */
 .banner-page.pages {
-  background: url("../images/1920x1300.jpg") bottom center no-repeat; }
+  background: url("../images/5.png") bottom center no-repeat; }
 
 /* 6.3 - Projects */
 .banner-page.project {
-  background: url("../images/1920x1300.jpg") bottom center no-repeat; }
+  background: url("../images/3.png") bottom center no-repeat; }
 
 /* 6.4 - News */
 .banner-page.news {
@@ -3439,7 +3477,7 @@ dl.hiw {
 
 /* 6.6 Section - Features */
 .section.feature {
-  background-color: #DB0000; 
+  background-color: #FFFFFF; 
   }
 .visao {
   background-image: url(../images/higher-back-sector.png)
@@ -3475,11 +3513,12 @@ dl.hiw {
     bottom: -50%;
     transform: translateY(-50%);
     z-index: 1;
-    border: 10px solid #DB0000; }
+    border: 10px solid #fff; border-radius: 10px;}
   .about-img .about-img-bottom {
     position: absolute;
     width: 85%;
-    right: 0; }
+    right: 0;
+    }
 
 /* 6.7 Section - CTA */
 .section.cta {
@@ -3648,8 +3687,8 @@ dl.hiw {
   color: #060f1c; }
 
 /* 6.12 - Pages */
-.banner-page.pages {
-  background: url("../images/1920x1300.jpg") bottom center no-repeat; }
+.banner-page.page {
+  background: url("../images/avi2.png") bottom center no-repeat; }
 
 /* 6.12 - Contact */
 .banner-page.contact {
