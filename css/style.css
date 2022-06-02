@@ -902,7 +902,7 @@ ul.circle {
       color: #060f1c; }
 
 .bgsection {
-  background: url(../images/2.png) bottom center no-repeat;
+  background: url("../images/BG contador.png") bottom center no-repeat;
   background-attachment: fixed;
   background-size: cover; }
   .bgsection:before {
@@ -940,6 +940,13 @@ ul.circle {
 
 .margin-bottom-100 {
   margin-bottom: 100px; }
+
+.spacer-5 {
+  height: 5px; }
+  .spacer-5::after {
+    display: block;
+    content: "";
+    clear: both; }
 
 .spacer-10 {
   height: 10px; }
@@ -3211,7 +3218,7 @@ dl.hiw {
   background: url("../images/3.png") bottom center no-repeat; }
 
 /*.section.project{
-	background: url('../images/4.png') bottom center no-repeat;
+	background: url('../images/BG top 06.png') bottom center no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
 }
@@ -3226,7 +3233,7 @@ dl.hiw {
 	opacity: .9;
 }*/
 .bg-dark {
-  background: url("../images/4.png") bottom center no-repeat;
+  background: url("../images/BG top 06.png") bottom center no-repeat;
   background-attachment: fixed;
   background-size: cover; }
 
